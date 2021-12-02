@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <hi>EDIT COBA PERUBAHAN NICH !</hi>
+        <h1>EDIT COBA PERUBAHAN NICH !</h1>
+        <h2>COBA BUAT COMMIT DI BRANCH YANG BERBEDA</h2>
       </header>
     </div>
   );
